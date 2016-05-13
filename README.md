@@ -1,1 +1,1 @@
-# shop_jquery
+# shop
