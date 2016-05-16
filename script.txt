@@ -1,3 +1,4 @@
-My first comment from phpstorm2
+My first comment from phpStorm
+My comment from GItBash
+My comment from GItBash #2
 
-My first comment from phpstorm #2
