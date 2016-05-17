@@ -2,3 +2,5 @@ My first comment from phpStorm
 My comment from GItBash
 My comment from GItBash #2
 
+My commit from Git Bash #3.1
+My commit from Git Bash #3.2
